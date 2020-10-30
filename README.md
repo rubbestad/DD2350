@@ -22,7 +22,7 @@ i syfte att
 #### Kopplingar till examensmål
 ADK-kursen bidrar till att följande mål för civilingenjörsexamen uppfylls:
 
-*visa kunskap om det valda teknikområdets (datatekniks) vetenskapliga grund och beprövade erfarenhet
+* visa kunskap om det valda teknikområdets (datatekniks) vetenskapliga grund och beprövade erfarenhet
 (Kursens område utgör själva kärnan i datalogins vetenskapliga grund. Både teoretiskt sett optimala algoritmer och datastrukturer och erfarenhetsmässigt goda sådana behandlas i kursen.)
 * visa brett kunnande inom det valda teknikområdet (datateknik), inbegripet kunskaper i matematik och naturvetenskap, som väsentligt fördjupade kunskaper inom vissa delar av området
 (Kursen är på avancerad nivå och bygger vidare på flera tidigare kurser i matematik och datalogi. Den ger fördjupade kunskaper inom teoretisk datalogi och algoritmkonstruktion.)
